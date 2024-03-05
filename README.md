@@ -7,5 +7,5 @@ I extend my heartfelt thanks to Professor Amarnath Mitra for his invaluable guid
 # References 
 Dataset: https://catalog.data.gov/dataset/real-estate-sales-2001-2018
 
-# This repository belongs to Rishika Arya(045046) from PGDM, BDA-04
+# This repository belongs to Rishika Arya(045046) 
 
