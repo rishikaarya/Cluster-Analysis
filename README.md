@@ -1,4 +1,5 @@
 # MLM-Project1-Unsupervised-Learning
+Segmentation of the supply chain dataset
 
 # Acknowledgment
 
